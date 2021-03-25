@@ -1,6 +1,3 @@
-_G.gamenamegay = "Arsenal"
-
-
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("ImageLabel")
 local BAR = Instance.new("ImageLabel")
